@@ -63,7 +63,8 @@ Logout functionality for secure session end.
 ## How to Run
 1. Clone the Repository
 2. git clone https://github.com/your-username/restaurant-booking-app.git
-3. Navigate to the Project Directory use these 
+3. Navigate to the Project Directory use these
+  
 cd restaurant-booking-app
 ## Installation
 
@@ -86,6 +87,10 @@ cd client
 npm install
 
 npm run dev
+
+ #Admin login Credentials
+   Email demo@gmail.com
+   Password Demo1234
 
 
 
