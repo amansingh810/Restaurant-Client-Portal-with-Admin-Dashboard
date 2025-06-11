@@ -30,23 +30,33 @@ Toast Notifications for login and key actions.
 
 Logout functionality for secure session end.
 
-## Tech Stack
+---
 
-*Client:* React, TailwindCSS
+## 🛠 Tech Stack
 
-*Server:* Node, Express
+### 💻 Frontend
+- React  
+- TailwindCSS  
+- Axios  
+- Cloudinary (for image storage)
 
-Frontend Backend Database *Others*
+### 🖥 Backend
+- Node.js  
+- Express.js  
+- JWT (JSON Web Tokens)
 
-React	Express.js	MongoDB	Axios, JWT, Cloudinary
+### 🗄 Database
+- MongoDB
 
-*Security*
+---
 
-Form Validation on both client and server.
+## 🔐 Security
 
-*JWT* Authentication for admin routes.
+- ✅ *Form Validation* on both client and server side
+- 🔐 *JWT Authentication* for protecting admin routes
+- 🔑 *Environment Variables* are used to securely store sensitive information (e.g., API keys, DB URIs)
 
-Environment Variables used for credentials and secrets
+---
 
 
 
@@ -80,8 +90,7 @@ npm run dev
 
 
 ## 🚀 About Me
-I'm a full stack developer...
-
+My name is Aman Singh, and I hold a B.Tech degree in Computer Science and Engineering from Vellore Institute of Technology (VIT). I have worked with multiple companies, gaining valuable experience as a Full Stack Developer. I am deeply passionate about problem-solving and continuously strive to build efficient and impactful software solutions.
 🙌 Author
 Aman Singh – Full Stack Developer
 
