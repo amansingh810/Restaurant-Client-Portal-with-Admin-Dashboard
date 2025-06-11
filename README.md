@@ -30,3 +30,34 @@ Toast Notifications for login and key actions.
 
 Logout functionality for secure session end.
 
+🧱 Tech Stack
+Frontend	Backend	Database	Others
+React	Express.js	MongoDB	Axios, JWT, Cloudinary
+🔒 Security
+Form Validation on both client and server.
+
+JWT Authentication for admin routes.
+
+Environment Variables used for credentials and secrets.
+
+📦 How to Run
+1. Clone the Repository
+2. git clone https://github.com/your-username/restaurant-booking-app.git
+cd restaurant-booking-app
+
+2. Install Dependencies
+Backend
+cd server
+npm install
+npm start server
+
+Frontend for client and admin
+npm install
+npm run dev
+
+🙌 Author
+Aman Singh – Full Stack Developer
+
+LinkedIn https://www.linkedin.com/in/amans2802/
+GitHub github.com/amansingh810
+
